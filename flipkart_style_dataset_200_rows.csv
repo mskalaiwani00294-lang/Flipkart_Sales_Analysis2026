@@ -1,0 +1,201 @@
+Order_ID,Customer_ID,Product_Category,Product_Name,Order_Date,Quantity,Unit_Price,Discount_Percent,City,Payment_Method
+FK10001,CUST1096,Fashion,Sports Shoes,2026-01-01,2,12488.83,6.6,Kochi,Debit Card
+FK10002,CUST1012,Grocery,Novel,2026-01-02,2,52765.42,11.3,Delhi,Credit Card
+FK10003,CUST1082,Sports,Laptop,2026-01-03,5,74467.75,26.4,Mumbai,Cash on Delivery
+FK10004,CUST1071,Fashion,Smartphone,2026-01-04,5,12667.54,0.6,Delhi,Credit Card
+FK10005,CUST1064,Appliances,Laptop,2026-01-05,1,5675.82,3.9,Delhi,Credit Card
+FK10006,CUST1088,Books,Sports Shoes,2026-01-06,5,17281.2,33.6,Chennai,Credit Card
+FK10007,CUST1076,Appliances,Novel,2026-01-07,4,13247.23,38.1,Chennai,Net Banking
+FK10008,CUST1138,Grocery,T-Shirt,2026-01-08,2,13859.91,30.2,Coimbatore,Net Banking
+FK10009,CUST1041,Books,Face Cream,2026-01-09,3,51286.27,3.4,Ahmedabad,UPI
+FK10010,CUST1133,Beauty,Laptop,2026-01-10,5,83654.44,38.0,Pune,Credit Card
+FK10011,CUST1064,Mobiles,Smartphone,2026-01-11,1,1014.68,35.0,Hyderabad,Cash on Delivery
+FK10012,CUST1061,Beauty,Rice Bag,2026-01-12,2,41488.04,33.0,Ahmedabad,Credit Card
+FK10013,CUST1111,Grocery,Novel,2026-01-13,5,9121.49,32.0,Mumbai,Cash on Delivery
+FK10014,CUST1006,Home & Kitchen,Face Cream,2026-01-14,4,79529.64,11.9,Kolkata,Credit Card
+FK10015,CUST1141,Mobiles,T-Shirt,2026-01-15,5,58108.93,4.0,Bangalore,Debit Card
+FK10016,CUST1041,Laptops,Sports Shoes,2026-01-16,5,84260.29,34.6,Delhi,UPI
+FK10017,CUST1050,Fashion,Smartphone,2026-01-17,4,81292.71,27.7,Pune,Net Banking
+FK10018,CUST1084,Laptops,Rice Bag,2026-01-18,1,30161.37,0.0,Hyderabad,Credit Card
+FK10019,CUST1112,Grocery,T-Shirt,2026-01-19,3,27059.96,8.8,Kolkata,Debit Card
+FK10020,CUST1137,Fashion,Smart TV,2026-01-20,2,28767.79,23.6,Kochi,Net Banking
+FK10021,CUST1116,Laptops,Smart TV,2026-01-21,4,4322.83,40.0,Coimbatore,Cash on Delivery
+FK10022,CUST1116,Sports,Laptop,2026-01-22,5,11535.54,2.9,Hyderabad,UPI
+FK10023,CUST1060,Grocery,Smartphone,2026-01-23,3,64547.68,15.0,Kolkata,Cash on Delivery
+FK10024,CUST1045,Home & Kitchen,T-Shirt,2026-01-24,2,33204.75,19.8,Coimbatore,Credit Card
+FK10025,CUST1073,Beauty,Smart TV,2026-01-25,3,61661.04,13.5,Delhi,Debit Card
+FK10026,CUST1020,Beauty,Novel,2026-01-26,4,37088.47,19.4,Coimbatore,UPI
+FK10027,CUST1127,Sports,Novel,2026-01-27,4,64541.19,21.8,Bangalore,Credit Card
+FK10028,CUST1139,Laptops,Smart TV,2026-01-28,4,55317.95,14.7,Delhi,Credit Card
+FK10029,CUST1077,Books,Sports Shoes,2026-01-29,2,66565.58,17.7,Hyderabad,Cash on Delivery
+FK10030,CUST1108,Beauty,Sports Shoes,2026-01-30,1,52990.38,4.0,Mumbai,Cash on Delivery
+FK10031,CUST1088,Beauty,Sports Shoes,2026-01-31,1,20363.75,38.0,Hyderabad,UPI
+FK10032,CUST1129,Appliances,T-Shirt,2026-02-01,3,81472.53,27.9,Delhi,Net Banking
+FK10033,CUST1106,Sports,Sports Shoes,2026-02-02,4,4939.92,4.7,Coimbatore,Credit Card
+FK10034,CUST1009,Mobiles,Rice Bag,2026-02-03,5,67983.24,24.9,Kolkata,Credit Card
+FK10035,CUST1063,Sports,Headphones,2026-02-04,4,83824.35,24.3,Bangalore,UPI
+FK10036,CUST1100,Home & Kitchen,Laptop,2026-02-05,2,23305.41,6.6,Kochi,Cash on Delivery
+FK10037,CUST1029,Laptops,Headphones,2026-02-06,3,1472.85,6.3,Kolkata,Credit Card
+FK10038,CUST1064,Fashion,Novel,2026-02-07,2,58748.19,34.9,Mumbai,UPI
+FK10039,CUST1008,Electronics,Mixer Grinder,2026-02-08,5,50374.54,17.4,Kolkata,UPI
+FK10040,CUST1139,Mobiles,Novel,2026-02-09,2,50199.56,34.1,Chennai,Net Banking
+FK10041,CUST1104,Grocery,Laptop,2026-02-10,2,82617.45,16.7,Chennai,UPI
+FK10042,CUST1039,Sports,T-Shirt,2026-02-11,5,36092.75,32.4,Mumbai,Credit Card
+FK10043,CUST1074,Books,Smart TV,2026-02-12,3,28614.09,14.5,Mumbai,Cash on Delivery
+FK10044,CUST1147,Sports,Novel,2026-02-13,2,65218.34,12.9,Coimbatore,Cash on Delivery
+FK10045,CUST1072,Beauty,Mixer Grinder,2026-02-14,1,35485.17,2.5,Hyderabad,Cash on Delivery
+FK10046,CUST1104,Books,Face Cream,2026-02-15,3,84989.72,14.1,Bangalore,UPI
+FK10047,CUST1144,Books,Smartphone,2026-02-16,1,7171.95,9.3,Kolkata,UPI
+FK10048,CUST1045,Books,Headphones,2026-02-17,1,77274.23,9.8,Coimbatore,Cash on Delivery
+FK10049,CUST1001,Mobiles,Rice Bag,2026-02-18,2,79527.77,8.7,Chennai,Credit Card
+FK10050,CUST1117,Beauty,Face Cream,2026-02-19,5,48455.21,36.8,Kolkata,UPI
+FK10051,CUST1107,Laptops,Novel,2026-02-20,3,74437.24,2.1,Pune,Cash on Delivery
+FK10052,CUST1141,Grocery,Laptop,2026-02-21,5,61435.46,35.5,Kolkata,Cash on Delivery
+FK10053,CUST1018,Electronics,Headphones,2026-02-22,2,61901.87,14.0,Hyderabad,Cash on Delivery
+FK10054,CUST1098,Grocery,T-Shirt,2026-02-23,3,66063.61,19.8,Ahmedabad,Cash on Delivery
+FK10055,CUST1125,Electronics,Smartphone,2026-02-24,4,52083.25,40.0,Delhi,Net Banking
+FK10056,CUST1020,Beauty,Rice Bag,2026-02-25,1,48607.66,11.8,Pune,Cash on Delivery
+FK10057,CUST1031,Electronics,Headphones,2026-02-26,5,14924.54,26.8,Mumbai,Cash on Delivery
+FK10058,CUST1011,Home & Kitchen,Sports Shoes,2026-02-27,3,38427.12,28.9,Hyderabad,Debit Card
+FK10059,CUST1104,Mobiles,Face Cream,2026-02-28,1,13714.89,2.7,Pune,Net Banking
+FK10060,CUST1021,Books,Headphones,2026-03-01,4,34824.58,33.5,Mumbai,Debit Card
+FK10061,CUST1009,Sports,Novel,2026-03-02,5,10471.68,27.7,Chennai,Cash on Delivery
+FK10062,CUST1087,Electronics,Mixer Grinder,2026-03-03,4,23296.23,3.0,Mumbai,Cash on Delivery
+FK10063,CUST1123,Electronics,Novel,2026-03-04,5,51074.42,29.5,Kochi,Net Banking
+FK10064,CUST1027,Sports,T-Shirt,2026-03-05,2,82449.11,10.7,Kochi,Credit Card
+FK10065,CUST1088,Grocery,Novel,2026-03-06,2,23555.55,15.2,Coimbatore,Cash on Delivery
+FK10066,CUST1048,Books,Mixer Grinder,2026-03-07,3,71644.17,3.0,Coimbatore,Debit Card
+FK10067,CUST1138,Grocery,Sports Shoes,2026-03-08,1,57103.85,23.4,Kolkata,Net Banking
+FK10068,CUST1131,Grocery,Headphones,2026-03-09,1,15504.31,20.1,Chennai,Credit Card
+FK10069,CUST1147,Appliances,Face Cream,2026-03-10,2,34875.04,6.7,Hyderabad,Net Banking
+FK10070,CUST1059,Sports,Headphones,2026-03-11,1,50455.43,9.3,Kochi,UPI
+FK10071,CUST1093,Home & Kitchen,Smart TV,2026-03-12,4,17680.68,8.8,Kochi,Cash on Delivery
+FK10072,CUST1140,Electronics,Headphones,2026-03-13,3,29623.65,12.4,Kolkata,UPI
+FK10073,CUST1139,Grocery,Laptop,2026-03-14,4,53929.15,19.2,Pune,Net Banking
+FK10074,CUST1114,Books,Mixer Grinder,2026-03-15,1,42723.66,20.5,Mumbai,Cash on Delivery
+FK10075,CUST1029,Electronics,Sports Shoes,2026-03-16,5,74438.16,20.3,Ahmedabad,Debit Card
+FK10076,CUST1004,Fashion,Rice Bag,2026-03-17,5,56785.74,12.2,Hyderabad,Debit Card
+FK10077,CUST1084,Grocery,Smart TV,2026-03-18,4,68863.13,5.5,Kochi,Debit Card
+FK10078,CUST1085,Sports,Novel,2026-03-19,5,37961.2,29.2,Pune,UPI
+FK10079,CUST1048,Grocery,Smartphone,2026-03-20,5,50309.7,18.5,Pune,UPI
+FK10080,CUST1015,Laptops,Novel,2026-03-21,4,61904.31,32.8,Kochi,Debit Card
+FK10081,CUST1121,Grocery,Rice Bag,2026-03-22,5,5107.32,39.7,Bangalore,Cash on Delivery
+FK10082,CUST1007,Sports,Smart TV,2026-03-23,5,14528.16,1.5,Hyderabad,Net Banking
+FK10083,CUST1104,Grocery,Face Cream,2026-03-24,1,84086.53,34.0,Bangalore,Net Banking
+FK10084,CUST1111,Electronics,Face Cream,2026-03-25,4,72222.88,30.6,Mumbai,UPI
+FK10085,CUST1072,Appliances,Smartphone,2026-03-26,4,39004.5,9.8,Mumbai,Debit Card
+FK10086,CUST1102,Fashion,T-Shirt,2026-03-27,4,3728.53,1.0,Bangalore,UPI
+FK10087,CUST1083,Home & Kitchen,Sports Shoes,2026-03-28,2,52222.17,25.0,Mumbai,UPI
+FK10088,CUST1047,Beauty,Mixer Grinder,2026-03-29,2,77367.69,3.3,Coimbatore,UPI
+FK10089,CUST1132,Home & Kitchen,Rice Bag,2026-03-30,4,75743.46,16.3,Delhi,Cash on Delivery
+FK10090,CUST1047,Grocery,Novel,2026-03-31,1,24546.02,7.4,Hyderabad,Credit Card
+FK10091,CUST1030,Appliances,Sports Shoes,2026-04-01,5,7257.39,36.9,Pune,Cash on Delivery
+FK10092,CUST1150,Mobiles,Novel,2026-04-02,4,6676.98,11.9,Pune,Debit Card
+FK10093,CUST1123,Sports,T-Shirt,2026-04-03,4,72437.39,5.9,Kochi,Credit Card
+FK10094,CUST1022,Books,Smart TV,2026-04-04,4,72501.05,29.2,Mumbai,Net Banking
+FK10095,CUST1024,Mobiles,Face Cream,2026-04-05,1,58124.05,29.9,Kochi,Net Banking
+FK10096,CUST1128,Mobiles,Novel,2026-04-06,4,56753.45,22.0,Kolkata,UPI
+FK10097,CUST1095,Books,Rice Bag,2026-04-07,3,10698.9,9.2,Bangalore,Credit Card
+FK10098,CUST1101,Sports,Face Cream,2026-04-08,4,25690.53,9.8,Hyderabad,Net Banking
+FK10099,CUST1021,Sports,Face Cream,2026-04-09,1,50623.67,21.0,Delhi,Cash on Delivery
+FK10100,CUST1028,Appliances,Smart TV,2026-04-10,1,62513.03,28.6,Hyderabad,Net Banking
+FK10101,CUST1006,Mobiles,Smart TV,2026-04-11,2,61821.54,23.5,Pune,Cash on Delivery
+FK10102,CUST1050,Electronics,Novel,2026-04-12,4,27009.84,28.1,Bangalore,Credit Card
+FK10103,CUST1083,Fashion,Face Cream,2026-04-13,4,71777.17,26.8,Ahmedabad,Cash on Delivery
+FK10104,CUST1078,Mobiles,Headphones,2026-04-14,1,28953.24,0.3,Coimbatore,Net Banking
+FK10105,CUST1103,Grocery,Smart TV,2026-04-15,2,60664.13,17.5,Pune,Credit Card
+FK10106,CUST1132,Appliances,Face Cream,2026-04-16,2,11624.93,7.3,Hyderabad,Credit Card
+FK10107,CUST1128,Books,Rice Bag,2026-04-17,3,33922.41,21.0,Kochi,Cash on Delivery
+FK10108,CUST1143,Laptops,Novel,2026-04-18,5,83475.69,10.7,Chennai,Net Banking
+FK10109,CUST1128,Electronics,Sports Shoes,2026-04-19,2,80350.16,13.1,Coimbatore,Debit Card
+FK10110,CUST1050,Mobiles,Novel,2026-04-20,5,32610.56,4.8,Kochi,UPI
+FK10111,CUST1088,Appliances,Headphones,2026-04-21,4,77516.59,26.9,Hyderabad,Cash on Delivery
+FK10112,CUST1053,Laptops,Smart TV,2026-04-22,5,29551.02,16.8,Mumbai,Credit Card
+FK10113,CUST1142,Laptops,Smartphone,2026-04-23,3,30572.31,32.6,Hyderabad,Net Banking
+FK10114,CUST1025,Appliances,Smartphone,2026-04-24,5,59998.31,12.7,Kolkata,Debit Card
+FK10115,CUST1149,Beauty,Face Cream,2026-04-25,2,43915.13,35.9,Pune,Debit Card
+FK10116,CUST1061,Fashion,Rice Bag,2026-04-26,2,24531.02,4.9,Bangalore,Credit Card
+FK10117,CUST1048,Home & Kitchen,Sports Shoes,2026-04-27,4,3737.68,24.3,Kolkata,Net Banking
+FK10118,CUST1115,Grocery,Smart TV,2026-04-28,4,19009.2,7.0,Mumbai,Credit Card
+FK10119,CUST1030,Fashion,Smart TV,2026-04-29,4,19647.69,33.6,Kolkata,UPI
+FK10120,CUST1061,Fashion,Smart TV,2026-04-30,1,20215.26,19.8,Kolkata,UPI
+FK10121,CUST1054,Home & Kitchen,Novel,2026-05-01,1,30700.19,28.5,Coimbatore,UPI
+FK10122,CUST1140,Mobiles,T-Shirt,2026-05-02,3,35848.82,34.6,Delhi,Net Banking
+FK10123,CUST1041,Appliances,Novel,2026-05-03,5,72333.95,30.7,Coimbatore,Credit Card
+FK10124,CUST1046,Electronics,Novel,2026-05-04,1,20012.59,31.2,Kolkata,Credit Card
+FK10125,CUST1098,Sports,Smartphone,2026-05-05,1,44156.6,32.0,Mumbai,Cash on Delivery
+FK10126,CUST1037,Home & Kitchen,Mixer Grinder,2026-05-06,2,70610.4,28.5,Hyderabad,Credit Card
+FK10127,CUST1138,Fashion,Laptop,2026-05-07,1,4562.83,13.6,Ahmedabad,UPI
+FK10128,CUST1126,Mobiles,Novel,2026-05-08,1,59679.59,29.2,Chennai,Credit Card
+FK10129,CUST1053,Laptops,Headphones,2026-05-09,3,22530.21,21.0,Pune,UPI
+FK10130,CUST1068,Beauty,Face Cream,2026-05-10,2,83058.2,34.2,Hyderabad,Debit Card
+FK10131,CUST1044,Appliances,Smartphone,2026-05-11,3,41909.06,39.4,Ahmedabad,Cash on Delivery
+FK10132,CUST1130,Beauty,Headphones,2026-05-12,2,81274.47,22.8,Delhi,Credit Card
+FK10133,CUST1080,Sports,Headphones,2026-05-13,1,64336.34,36.4,Kochi,Debit Card
+FK10134,CUST1069,Beauty,Headphones,2026-05-14,5,53399.01,0.3,Coimbatore,Credit Card
+FK10135,CUST1062,Beauty,Novel,2026-05-15,1,67642.96,7.4,Coimbatore,Net Banking
+FK10136,CUST1147,Appliances,Smart TV,2026-05-16,2,84826.08,29.9,Delhi,Cash on Delivery
+FK10137,CUST1052,Fashion,Face Cream,2026-05-17,4,31341.16,38.4,Chennai,Net Banking
+FK10138,CUST1015,Appliances,Headphones,2026-05-18,2,59467.85,35.8,Kochi,Credit Card
+FK10139,CUST1146,Grocery,Mixer Grinder,2026-05-19,4,18113.5,29.3,Ahmedabad,Credit Card
+FK10140,CUST1088,Beauty,Novel,2026-05-20,2,62878.91,25.5,Kochi,Net Banking
+FK10141,CUST1047,Grocery,Mixer Grinder,2026-05-21,1,38948.82,13.0,Kolkata,UPI
+FK10142,CUST1053,Mobiles,Headphones,2026-05-22,5,39634.7,9.4,Hyderabad,Cash on Delivery
+FK10143,CUST1145,Sports,Headphones,2026-05-23,1,57355.72,31.6,Coimbatore,Cash on Delivery
+FK10144,CUST1085,Home & Kitchen,Rice Bag,2026-05-24,5,50987.08,19.0,Mumbai,Cash on Delivery
+FK10145,CUST1011,Laptops,Rice Bag,2026-05-25,5,51194.06,17.0,Delhi,UPI
+FK10146,CUST1107,Sports,Rice Bag,2026-05-26,4,34250.64,17.8,Pune,Debit Card
+FK10147,CUST1097,Fashion,Face Cream,2026-05-27,1,64219.27,17.5,Bangalore,UPI
+FK10148,CUST1123,Grocery,Mixer Grinder,2026-05-28,5,29619.07,15.7,Bangalore,Debit Card
+FK10149,CUST1027,Books,Smartphone,2026-05-29,1,33711.75,1.8,Hyderabad,Cash on Delivery
+FK10150,CUST1077,Sports,Novel,2026-05-30,3,45484.8,3.6,Kochi,Cash on Delivery
+FK10151,CUST1067,Fashion,Sports Shoes,2026-05-31,5,12274.81,2.4,Bangalore,UPI
+FK10152,CUST1055,Appliances,Rice Bag,2026-06-01,4,8107.72,27.5,Delhi,Net Banking
+FK10153,CUST1146,Appliances,Laptop,2026-06-02,5,84166.76,27.8,Delhi,UPI
+FK10154,CUST1003,Fashion,T-Shirt,2026-06-03,2,14196.09,26.2,Coimbatore,Cash on Delivery
+FK10155,CUST1081,Beauty,Headphones,2026-06-04,3,45231.31,4.1,Coimbatore,Credit Card
+FK10156,CUST1051,Beauty,Smartphone,2026-06-05,3,31814.61,33.1,Delhi,Net Banking
+FK10157,CUST1067,Home & Kitchen,Laptop,2026-06-06,3,78971.38,20.9,Kochi,Net Banking
+FK10158,CUST1089,Sports,Novel,2026-06-07,3,67336.0,25.9,Coimbatore,Cash on Delivery
+FK10159,CUST1080,Sports,Headphones,2026-06-08,2,6721.47,7.9,Chennai,Debit Card
+FK10160,CUST1094,Sports,Novel,2026-06-09,2,3260.05,22.6,Kolkata,Credit Card
+FK10161,CUST1007,Beauty,Laptop,2026-06-10,5,20600.78,29.3,Delhi,UPI
+FK10162,CUST1093,Mobiles,Rice Bag,2026-06-11,1,55421.01,12.0,Mumbai,Net Banking
+FK10163,CUST1043,Fashion,Laptop,2026-06-12,3,55447.41,38.3,Coimbatore,Credit Card
+FK10164,CUST1023,Books,Headphones,2026-06-13,4,66070.71,14.9,Kolkata,Cash on Delivery
+FK10165,CUST1122,Books,Face Cream,2026-06-14,5,69876.16,12.0,Delhi,UPI
+FK10166,CUST1113,Home & Kitchen,Mixer Grinder,2026-06-15,2,60468.4,37.1,Coimbatore,Credit Card
+FK10167,CUST1149,Appliances,Rice Bag,2026-06-16,5,1666.85,5.7,Hyderabad,Debit Card
+FK10168,CUST1128,Fashion,Laptop,2026-06-17,3,15873.3,8.2,Delhi,UPI
+FK10169,CUST1098,Appliances,Face Cream,2026-06-18,2,27488.03,19.6,Chennai,Net Banking
+FK10170,CUST1111,Appliances,T-Shirt,2026-06-19,4,68503.92,11.8,Mumbai,Credit Card
+FK10171,CUST1072,Sports,Headphones,2026-06-20,2,60628.02,23.1,Pune,Net Banking
+FK10172,CUST1109,Appliances,Headphones,2026-06-21,3,76383.25,8.6,Kolkata,Credit Card
+FK10173,CUST1064,Sports,T-Shirt,2026-06-22,3,11940.5,38.6,Ahmedabad,Debit Card
+FK10174,CUST1104,Fashion,Smart TV,2026-06-23,4,49920.31,28.1,Mumbai,UPI
+FK10175,CUST1046,Electronics,Mixer Grinder,2026-06-24,1,40071.72,16.0,Delhi,Net Banking
+FK10176,CUST1104,Beauty,Rice Bag,2026-06-25,2,58981.88,32.4,Bangalore,UPI
+FK10177,CUST1104,Laptops,Headphones,2026-06-26,4,46769.19,3.8,Pune,UPI
+FK10178,CUST1117,Laptops,Mixer Grinder,2026-06-27,4,72569.96,13.3,Pune,Net Banking
+FK10179,CUST1026,Laptops,Mixer Grinder,2026-06-28,1,4761.53,34.0,Pune,Debit Card
+FK10180,CUST1076,Appliances,Sports Shoes,2026-06-29,1,8269.19,23.1,Hyderabad,Cash on Delivery
+FK10181,CUST1012,Beauty,Novel,2026-06-30,2,12543.11,23.2,Coimbatore,UPI
+FK10182,CUST1077,Home & Kitchen,Smart TV,2026-07-01,3,71938.02,16.0,Pune,Cash on Delivery
+FK10183,CUST1114,Beauty,Rice Bag,2026-07-02,3,26837.89,24.5,Coimbatore,UPI
+FK10184,CUST1124,Books,Headphones,2026-07-03,1,22560.23,27.2,Hyderabad,Cash on Delivery
+FK10185,CUST1051,Home & Kitchen,T-Shirt,2026-07-04,2,30929.36,32.3,Kochi,UPI
+FK10186,CUST1102,Appliances,T-Shirt,2026-07-05,5,69148.66,25.6,Chennai,Net Banking
+FK10187,CUST1060,Appliances,Mixer Grinder,2026-07-06,1,13851.67,10.8,Bangalore,Net Banking
+FK10188,CUST1067,Mobiles,Smartphone,2026-07-07,4,82198.48,2.6,Mumbai,Cash on Delivery
+FK10189,CUST1103,Beauty,Sports Shoes,2026-07-08,4,25463.23,13.0,Chennai,UPI
+FK10190,CUST1123,Grocery,Smartphone,2026-07-09,4,33183.17,19.3,Ahmedabad,Cash on Delivery
+FK10191,CUST1002,Laptops,Laptop,2026-07-10,2,66353.15,29.8,Hyderabad,Credit Card
+FK10192,CUST1035,Electronics,T-Shirt,2026-07-11,2,39739.76,6.8,Kochi,Cash on Delivery
+FK10193,CUST1038,Mobiles,Headphones,2026-07-12,3,81700.89,13.8,Coimbatore,Cash on Delivery
+FK10194,CUST1036,Sports,Sports Shoes,2026-07-13,1,18694.56,34.0,Pune,Net Banking
+FK10195,CUST1043,Fashion,Face Cream,2026-07-14,5,25375.36,6.7,Hyderabad,Debit Card
+FK10196,CUST1116,Sports,Laptop,2026-07-15,3,70136.09,10.4,Hyderabad,Debit Card
+FK10197,CUST1102,Sports,Smart TV,2026-07-16,5,77422.94,24.6,Hyderabad,Debit Card
+FK10198,CUST1109,Appliances,Mixer Grinder,2026-07-17,5,73607.53,19.9,Hyderabad,Debit Card
+FK10199,CUST1080,Grocery,Laptop,2026-07-18,1,4831.1,14.9,Hyderabad,Cash on Delivery
+FK10200,CUST1086,Mobiles,Smartphone,2026-07-19,1,34547.34,4.6,Kochi,Cash on Delivery
